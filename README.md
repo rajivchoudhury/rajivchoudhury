@@ -11,6 +11,8 @@ I'm currently in 2nd year of my B.tech course.
     <img align="right" width="21" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
 </div>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajivchoudhury&repo=github-readme-stats&theme=buefy" />
 <!--
 **rajivchoudhury/rajivchoudhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
