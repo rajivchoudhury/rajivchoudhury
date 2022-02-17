@@ -14,6 +14,7 @@ I'm currently in 2nd year of my B.tech course.
   <a href="https://www.linkedin.com/in/rajiv-choudhury-286709197/">
     <img width="22"src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>
   </a>
+  LinkedIn
 </div>
 <!--
 **rajivchoudhury/rajivchoudhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
