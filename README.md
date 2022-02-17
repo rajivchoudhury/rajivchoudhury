@@ -9,10 +9,10 @@ I'm currently in 2nd year of my B.tech course.
 </div>
 
 ### Contact ME
-<div>
-  Email to rajivchoudhury9@gmail.com or Call on 9439920931
+<div style="display: flex; align-items: center;justify-content: center;">
+  <img width="22" src="https://img.icons8.com/ios-filled/50/000000/apple-mail.png"/> rajivchoudhury9@gmail.com | <img width="22" src="https://img.icons8.com/ios-filled/50/000000/apple-phone.png"/> 9439920931 | 
   <a href="https://www.linkedin.com/in/rajiv-choudhury-286709197/">
-    <img align="right" width="21" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+    <img width="22"src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>
   </a>
 </div>
 <!--
