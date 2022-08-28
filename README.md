@@ -2,7 +2,7 @@
 
 I'm currently in 2nd year of my B.tech course. 
 
-<img src="https://github.com/rajivchoudhury/rajivchoudhury/blob/main/CoverPage.png" width=900>
+<img src="resources\CoverPage.png" width=900>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=rajivchoudhury&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
@@ -14,7 +14,7 @@ I'm currently in 2nd year of my B.tech course.
   <a href="https://www.linkedin.com/in/rajiv-choudhury-286709197/">
     <img width="22"src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>
   </a>
-  LinkedIn
+  LinkedIn | <a href="https://rajivchoudhury.github.io/index.html"><img width="22"src="resources\favicon.ico"> </a>Website
 </div>
 <!--
 **rajivchoudhury/rajivchoudhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
