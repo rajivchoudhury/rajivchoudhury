@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently in 2nd year of my B.tech course. 
+I'm currently in pre-final year of my B.tech course pursuing Computer Science Engineering
 
 <img src="resources\CoverPage.png" width=900>
 
