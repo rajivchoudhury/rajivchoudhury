@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently in pre-final year of my B.tech course pursuing Computer Science Engineering
+I'm currently in final year of my B.tech course pursuing Computer Science Engineering at IIIT Guwahati
 
 <img src="resources\CoverPage.png" width=900>
 
